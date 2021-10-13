@@ -2,13 +2,13 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-background-color: #F51426;
+background-color: #850585;
 margin: 0;
 padding: 0;
 color: #000;
 }
 .homePage {
-background: #F51426;
+background: #006DEB;
 }
 .container {
 width: 960px;
@@ -25,7 +25,7 @@ height: 80px;
 
 }
 .nav {
-background: #7E22D6;
+background: #850585;
 margin: 0px;
 padding: 5;
 float: left;
@@ -42,7 +42,7 @@ height: 400px;
 text-align: center;
 }
 .footer {
-background: #F51426;
+background: #AA0E0B;
 margin: 0px;
 float: left;
 width: 100%;
