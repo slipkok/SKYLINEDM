@@ -2,20 +2,20 @@
 /* This is a comment! Text here will be ignored by the browser. */
 body {
 font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
-background-color: #FFFFFF;
+background-color: #F51426;
 margin: 0;
 padding: 0;
 color: #000;
 }
 .homePage {
-background: #222222;
+background: #F51426;
 }
 .container {
 width: 960px;
 margin: 0 auto;
 }
 .header {
-background: #AAAAAA;
+background: #7E22D6;
 text-align: center;
 margin: 0px;
 padding: 5;
@@ -25,7 +25,7 @@ height: 80px;
 
 }
 .nav {
-background: #BBBBBB;
+background: #7E22D6;
 margin: 0px;
 padding: 5;
 float: left;
@@ -34,7 +34,7 @@ height: 60px;
 text-align: center;
 }
 .content {
-background: #EEEEEE;
+background: #006DEB;
 margin: 0px;
 float: left;
 width: 100%;
@@ -42,7 +42,7 @@ height: 400px;
 text-align: center;
 }
 .footer {
-background: #777777;
+background: #F51426;
 margin: 0px;
 float: left;
 width: 100%;
